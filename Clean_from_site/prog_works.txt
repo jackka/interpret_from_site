@@ -1,0 +1,6 @@
+program var a,b:bool;
+begin
+	a:=true;
+	b:=false;
+	write(a and or b)
+end@
